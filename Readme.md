@@ -1,4 +1,4 @@
-﻿**Interactive-Dashboard-Creation-Using-Power-BI**
+![image](https://github.com/rajeshkumar-333/Ecommerce-Store-Sales-Project/assets/167745088/df83842c-4027-4d94-8008-36688f125479)﻿**Interactive-Dashboard-Creation-Using-Power-BI**
 
 Creating Interactive Dashboard of E-Commerce Store
 
@@ -28,8 +28,7 @@ The owner of the **E-Commerce Store** wants us to create an interactive dashb
 - Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc).
 
 **Dashboard**
-
-Ecommerce_Store_Sales_Dashboard.JPG(https://github.com/rajeshkumar-333/Ecommerce-Store-Sales-Project/blob/main/Ecommerce_Store_Sales_Dashboard.JPG.csv)
+![Uploading Ecommerce Store Sales Dashboard.JPG…]()
 
 **Project Insight**
 
