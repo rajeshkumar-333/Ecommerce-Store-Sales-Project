@@ -29,7 +29,7 @@ The owner of the **E-Commerce Store** wants us to create an interactive dashb
 
 **Dashboard**
 
-![](Aspose.Words.e9f14355-f419-4589-9ef3-8ac3902ae91d.001.png)
+Ecommerce_Store_Sales_Dashboard.JPG
 
 **Project Insight**
 
