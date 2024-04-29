@@ -29,7 +29,7 @@ The owner of the **E-Commerce Store** wants us to create an interactive dashb
 
 **Dashboard**
 
-Ecommerce_Store_Sales_Dashboard.JPG
+Ecommerce_Store_Sales_Dashboard.JPG(https://github.com/rajeshkumar-333/Ecommerce-Store-Sales-Project/blob/main/Ecommerce_Store_Sales_Dashboard.JPG.csv)
 
 **Project Insight**
 
